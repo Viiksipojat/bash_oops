@@ -1,6 +1,6 @@
 # bash_oops
 
-Tweet your failures! 
+Tweet your failures! [See it in action](https://twitter.com/bash_oops) as [Viiksipojat](http://viiksipojat.fi) megahunks cannot type for their lives.
 
 ## Prerequisites
 
