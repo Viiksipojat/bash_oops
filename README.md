@@ -10,10 +10,12 @@ Install [Bash OAuth](https://github.com/livibetter/bash-oauth), like this `make 
 
 1. Source `bash_oopser.sh` in your `.bashrc`
 2. Create `.bash_oops.rc`:
-	cat > $HOME/.bash_oopser.rc <<TEMPLATE
-	oauth_consumer_key=
-	oauth_consumer_secret=
-	TEMPLATE
+
+		cat > $HOME/.bash_oopser.rc <<TEMPLATE
+		oauth_consumer_key=
+		oauth_consumer_secret=
+		TEMPLATE
+		
 3. Fill in your [Twitter API keys](http://dev.twitter.com/apps/new) to the newly created `$HOME/.bash_oops.rc`
 4. Go crazy
 
