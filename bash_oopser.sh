@@ -24,6 +24,6 @@ fi
 tweet_ur_failure() {
 	failure=$1
 	[ ${#failure} -gt 140 ] && failure=${failure:0:139}…
-	TO_statuses_update "$failure"
+	( TO_statuses_update "$failure" & )
 }
 trap 'tweet_ur_failure "$BASH_COMMAND"' ERR
