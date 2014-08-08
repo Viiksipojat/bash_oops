@@ -30,3 +30,5 @@ Are there any security concerns? Yes, plenty. A wise man wouldn't do this.
 ## TODO
 
 There are a bunch of [SMS commands](https://support.twitter.com/articles/14020-twitter-for-sms-basic-features), maybe they should be handled somehow.
+
+Include a photo of the moment à la [lolcommits](https://github.com/mroth/lolcommits).
