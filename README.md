@@ -11,7 +11,7 @@ Install [Bash OAuth](https://github.com/livibetter/bash-oauth), like this `make 
 1. Source `bash_oopser.sh` in your `.bashrc`
 2. Create `.bash_oops.rc`:
 
-		cat > $HOME/.bash_oopser.rc <<TEMPLATE
+		cat > $HOME/.bash_oops.rc <<TEMPLATE
 		oauth_consumer_key=
 		oauth_consumer_secret=
 		TEMPLATE
